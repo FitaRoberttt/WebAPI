@@ -53,5 +53,13 @@ namespace WebApplication1.Controllers
 
             return Ok(result);
         }
+
+        [HttpPost("stats-by-tournament")]
+        
+        public ActionResult<StatsByPlayer> Get_TournamentStats_ByPlayerId([FromBody] PlayerStatsRequest request)
+        {
+            var result = playerService.GetStatsById(request.PlayerId, request.Tournament);
+            return Ok(result);
+        }
     }
 }

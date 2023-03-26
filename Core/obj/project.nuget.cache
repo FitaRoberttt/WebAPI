@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jhhPUC2nFd/Fo8bKHK5a5p6e7qIVqgnap72g3C6W/2BCmfWIMyJF3vGO4YRiofvTljKOktwg5h9jR0bQOagVQ==",
+  "dgSpecHash": "5BSBhN19p/kZqu+lVmRW8RxleBW15Y3N1sqYUmriBs8NgipNEtRzWUdIvaM8Ky+RfVUR2OOpp7EHJfzPtTCZFA==",
   "success": true,
-  "projectFilePath": "C:\\Facultate\\An2Sem2\\.NET\\WebApplication1\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Facultate\\An2Sem2\\.NET\\WebAPI\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+cKwwLEJ9/LKv4LoVgw7iTMWMCxWCO+wmN+8NehNs9txKv95RQp1oweAQi6DkoLpekp4dfH+tU9mlwI4JR2zQ==",
+  "dgSpecHash": "EhmG3R/o1yrJx3//UpcQcL6uzU46D7pGXb9FhPAhN/KedUskrITQRAJMvD85tp6HI/OfwmFxSl/A3jMaqhlsAQ==",
   "success": true,
-  "projectFilePath": "C:\\Facultate\\An2Sem2\\.NET\\WebApplication1\\DataLayer\\DataLayer.csproj",
+  "projectFilePath": "C:\\Facultate\\An2Sem2\\.NET\\WebAPI\\DataLayer\\DataLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
