@@ -3,7 +3,7 @@ using System.Net.NetworkInformation;
 
 namespace DataLayer
 {
-    
+
     public static class DbContext
     {
         static void Main() { }
@@ -35,7 +35,7 @@ namespace DataLayer
                                 PlayerId=1,
                                 Tournament= Tournament.ChampionsLeague
                             },
-                            
+
                             new Stats
                             {
                                 Id=2,
@@ -162,7 +162,7 @@ namespace DataLayer
                         }
                     }
                 }
-                 
+
 
             },
             new Team

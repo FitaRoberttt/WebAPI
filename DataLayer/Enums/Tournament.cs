@@ -5,5 +5,5 @@ public enum Tournament
     Championship,
     ChampionsLeague,
     EuropaLeague,
-    FA_Cup,
+    FA_Cup
 }

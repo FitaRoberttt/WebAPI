@@ -17,11 +17,13 @@ namespace WebApplication1.Settings
         private static void AddServices(IServiceCollection services)
         {
             services.AddScoped<PlayerService>();
+            services.AddScoped<TeamService>();
         }
 
         private static void AddRepositories(IServiceCollection services)
         {
             services.AddScoped<PlayersRepository>();
+            services.AddScoped<TeamsRepository>();
         }
 
     }

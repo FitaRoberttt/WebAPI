@@ -42,6 +42,8 @@ namespace Core.Services
             return true;
         }
 
+        
+
         public StatsByPlayer GetStatsById(int playerId, Tournament tournament)
         {
             var playerWithStats = playersRepository.GetByIdWithStats(playerId, tournament);

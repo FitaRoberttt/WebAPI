@@ -40,6 +40,8 @@ namespace WebApplication1.Controllers
             return Ok(result);
         }
 
+        
+      
         [HttpPatch("edit-name")]
 
         public ActionResult<bool> GetById([FromBody] PlayerUpdateDto payload)
